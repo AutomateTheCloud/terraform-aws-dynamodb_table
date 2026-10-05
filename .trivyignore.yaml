@@ -1,0 +1,3 @@
+# Trivy findings that are deliberate. Each entry says why.
+# None: the module has no deliberate findings.
+misconfigurations: []
